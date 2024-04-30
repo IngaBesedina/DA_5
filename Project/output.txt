@@ -1,0 +1,8 @@
+doc/
+    text.txt
+    test/
+        text1.txt
+        test1/
+            text2.txt
+            test2/
+                text3.txt
